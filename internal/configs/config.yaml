@@ -1,0 +1,6 @@
+service:
+  port: ":9876"
+
+database:
+  dataSourceName: "root:passwordje@tcp(localhost:3306)/golang"
+
